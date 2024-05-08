@@ -5,7 +5,8 @@
       border-right: 1px solid #616368;
     }
     h3 {
-      font-size: 36px;
+      font-size: 40px;
+      line-height: 50px;
       font-weight: bold;
       color: #242f51;
       padding-left: 60px;
@@ -15,6 +16,9 @@
       padding-left: 60px;
       padding-right: 60px;
       padding-top: 30px;
+      color: #616368;
+      font-size: 16px;
+      line-height: 26px;
     }
   }
 
@@ -29,12 +33,16 @@
     }
     .features-desc {
       h4 {
-        font-size: 24px;
+        font-size: 20px;
+        line-height: 58px;
         font-weight: bold;
       }
       p {
         padding-top: unset;
         padding-right: 120px;
+        color: #616368;
+        font-size: 16px;
+        line-height: 26px;
       }
     }
     .automatic-payouts {

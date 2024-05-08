@@ -1,0 +1,25 @@
+footer {
+  padding-top: 150px;
+  padding-bottom: 100px;
+  text-align: center;
+  background-color: #09142e;
+  .links {
+    padding-top: 30px;
+    .nav-item {
+      .nav-link {
+        font-weight: 16px;
+        line-height: 44px;
+        color: #ffffff;
+      }
+    }
+  }
+  .social-logos {
+    padding-top: 25px;
+  }
+  .copyright {
+    font-weight: 14px;
+    line-height: 44px;
+    color: #616368;
+    padding-top: 75px;
+  }
+}

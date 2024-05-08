@@ -3,7 +3,13 @@
   text-align: center;
   h3 {
     color: #242f51;
-    font-size: 32px;
+    font-size: 36px;
+    line-height: 46px;
+  }
+  p {
+    color: #616368;
+    font-size: 16px;
+    line-height: 26px;
   }
   .testimonials-grid {
     padding-top: 40px;
@@ -13,13 +19,16 @@
     }
     h4 {
       padding-top: 20px;
-      color: #5a627c;
+      color: #242f51;
     }
     p {
       padding-top: 10px;
       padding-left: 40px;
       padding-right: 40px;
       padding-bottom: 20px;
+      color: #616368;
+      font-size: 16px;
+      line-height: 26px;
     }
   }
   .app-development {
