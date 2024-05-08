@@ -1,0 +1,71 @@
+.section-4 {
+  padding-top: 40px;
+  .jackpots {
+    .vertical-line {
+      border-right: 1px solid #616368;
+    }
+    h3 {
+      font-size: 36px;
+      font-weight: bold;
+      color: #242f51;
+      padding-left: 60px;
+      padding-right: 60px;
+    }
+    p {
+      padding-left: 60px;
+      padding-right: 60px;
+      padding-top: 30px;
+    }
+  }
+
+  .jackpot-sections {
+    padding-top: 150px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    img {
+      width: 80px;
+      height: 80px;
+      margin-bottom: 20px;
+    }
+    .features-desc {
+      h4 {
+        font-size: 24px;
+        font-weight: bold;
+      }
+      p {
+        padding-top: unset;
+        padding-right: 120px;
+      }
+    }
+    .automatic-payouts {
+      img {
+        background-color: #ffecef;
+        padding: 15px;
+        border-radius: 35px;
+      }
+      h4 {
+        color: #f55767;
+      }
+    }
+    .network-effect {
+      img {
+        background-color: #f4f4ff;
+        padding: 15px;
+        border-radius: 35px;
+      }
+      h4 {
+        color: #2563ff;
+      }
+    }
+    .bigger-rewards {
+      img {
+        background-color: #e4ffee;
+        padding: 15px;
+        border-radius: 35px;
+      }
+      h4 {
+        color: #6fb187;
+      }
+    }
+  }
+}

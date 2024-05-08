@@ -1,0 +1,28 @@
+.section-1 {
+  .col-md-7 {
+    padding-left: 5%;
+    .editors-choice {
+      padding-top: 30%;
+      .img-wrapper {
+        background-color: #e2eaed;
+        border-radius: 25px;
+        width: 50%;
+        img {
+          padding: 5px;
+          border-radius: 25px;
+          background-color: #feaa25;
+        }
+      }
+    }
+    h2 {
+      font-size: 64px;
+      font-weight: bold;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      color: #242f51;
+    }
+    .section1-buttons {
+      padding-top: 20px;
+    }
+  }
+}

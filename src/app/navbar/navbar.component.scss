@@ -1,0 +1,15 @@
+header {
+  .navbar {
+    padding-top: 50px;
+    // font-weight: 600;
+    .navbar-nav {
+      .nav-item {
+        padding-left: 15px;
+        padding-right: 15px;
+        .nav-link {
+          color: #000000;
+        }
+      }
+    }
+  }
+}
